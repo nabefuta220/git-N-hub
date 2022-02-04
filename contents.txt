@@ -1,0 +1,39 @@
+
+
+o githubとは、そのメリット
+o gitの導入
+
+- gitのインストール、(githugdesttop は任意)
+- Vscodeプラグインのインストール(git graph,git history,github , github pull request and issues )
+- githubのアカウント作成
+
+- プロキシの設定
+
+
+- gitのクローンと複製　(https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository)
+
+o ステージング・コミット
+
+- 文章の追加:関数の追加(挨拶関数?)
+
+o ブランチを切る
+
+- 間違い探し:(年齢の変更)
+
+o ブランチのマージ・プルリクエスト・コンフリクト(リベース、)
+
+- ブランチのコンフリクトを解決する:(改名)
+o issusについて
+
+-　issueを解決してみる:(親の年齢を出力してみる?)
+
+others
+
+マイルストーン、actions,タグ
+
+-actionsの体験:結婚できるかの判定(ともに生存、年齢が18歳以上、性別はF,M同士以外)
+
+実践編
+
+時計を作る->GPA計算機?
+
